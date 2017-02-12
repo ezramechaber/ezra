@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ezra Mechaber</title>
-    <link>https://ezramechaber.github.io/ezra/index.xml</link>
+    <link>http://ezramechaber.com/index.xml</link>
     <description>Recent content on Ezra Mechaber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 11 Feb 2017 18:48:35 -0500</lastBuildDate>
-    <atom:link href="https://ezramechaber.github.io/ezra/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ezramechaber.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>https://ezramechaber.github.io/ezra/about/</link>
+      <link>http://ezramechaber.com/about/</link>
       <pubDate>Sat, 11 Feb 2017 18:48:35 -0500</pubDate>
       
-      <guid>https://ezramechaber.github.io/ezra/about/</guid>
+      <guid>http://ezramechaber.com/about/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/ezra_maine.jpg&#34; width=&#34;250px&#34; height=&#34;250px&#34; class=&#34;img-right&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I do digital strategy. I help campaigns, non-profits, and companies do stuff—recruit volunteers, raise money, look cool—online. I&amp;rsquo;m based in Brooklyn (ugh, right?).&lt;/p&gt;
