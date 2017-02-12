@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ezramechaber.com/</loc>
+    <loc>https://ezramechaber.github.io/ezra/about/</loc>
+    <lastmod>2017-02-11T18:48:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ezramechaber.github.io/ezra/</loc>
+    <lastmod>2017-02-11T18:48:35-05:00</lastmod>
     <priority>0</priority>
   </url>
   

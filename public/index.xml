@@ -2,11 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ezra Mechaber</title>
-    <link>https://ezramechaber.com/index.xml</link>
+    <link>https://ezramechaber.github.io/ezra/index.xml</link>
     <description>Recent content on Ezra Mechaber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="https://ezramechaber.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Feb 2017 18:48:35 -0500</lastBuildDate>
+    <atom:link href="https://ezramechaber.github.io/ezra/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://ezramechaber.github.io/ezra/about/</link>
+      <pubDate>Sat, 11 Feb 2017 18:48:35 -0500</pubDate>
+      
+      <guid>https://ezramechaber.github.io/ezra/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ezramechaber.github.io/ezra/img/ezra_maine.jpg&#34; width=&#34;250px&#34; height=&#34;250px&#34; class=&#34;img-right&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I do digital strategy. I help campaigns, non-profits, and companies do stuff—recruit volunteers, raise money, look cool—online. I&amp;rsquo;m based in Brooklyn (ugh, right?).&lt;/p&gt;
+
+&lt;p&gt;From 2011 to 2015, I worked in the Obama White House&amp;rsquo;s &lt;a href=&#34;https://www.nytimes.com/2015/11/09/us/politics/a-digital-team-is-helping-obama-find-his-voice-online.html&#34;&gt;Office of Digital Strategy&lt;/a&gt;, running the &lt;a href=&#34;https://petitions.whitehouse.gov&#34;&gt;We the People petitions platform&lt;/a&gt;, starting the White House &lt;a href=&#34;http://obamawhitehouse.tumblr.com/&#34;&gt;Tumblr&lt;/a&gt;, and finding new ways to communicate with the American people.&lt;/p&gt;
+
+&lt;p&gt;Now I work with a bunch of very smart people at &lt;a href=&#34;http://precisionstrategies.com&#34;&gt;Precision Strategies&lt;/a&gt;, doing pretty much the same stuff.&lt;/p&gt;
+
+&lt;p&gt;I was born on a &lt;a href=&#34;http://www.hopestill.com&#34;&gt;farm&lt;/a&gt; in Massachusetts, and spent four years in Washington, DC. I also spent a smattering of time in Arizona, upstate New York, and Cape Town, South Africa. I listen to a &lt;em&gt;lot&lt;/em&gt; of music, the result of being a recovering DJ.&lt;/p&gt;
+
+&lt;p&gt;Want to get in touch? Need your strategies digitized? Email me at &lt;a href=&#34;mailto:contact@ezramechaber.com&#34;&gt;contact@ezramechaber.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
