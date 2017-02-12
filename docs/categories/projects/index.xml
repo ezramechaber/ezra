@@ -1,39 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ezra Mechaber</title>
-    <link>http://ezramechaber.com/index.xml</link>
-    <description>Recent content on Ezra Mechaber</description>
+    <title>Projects on Ezra Mechaber</title>
+    <link>http://ezramechaber.com/categories/projects/index.xml</link>
+    <description>Recent content in Projects on Ezra Mechaber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 11 Feb 2017 18:48:35 -0500</lastBuildDate>
-    <atom:link href="http://ezramechaber.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>About</title>
-      <link>http://ezramechaber.com/about/</link>
-      <pubDate>Sat, 11 Feb 2017 18:48:35 -0500</pubDate>
-      
-      <guid>http://ezramechaber.com/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../img/ezra_maine.jpg&#34; width=&#34;250px&#34; height=&#34;250px&#34; class=&#34;img-right&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I help campaigns, non-profits, and companies do stuff—tell their story, recruit volunteers, raise money, launch new products—online.&lt;/p&gt;
-
-&lt;p&gt;From 2011 to 2015, I worked in the Obama White House’s &lt;a href=&#34;https://www.nytimes.com/2015/11/09/us/politics/a-digital-team-is-helping-obama-find-his-voice-online.html&#34;&gt;Office of Digital Strategy&lt;/a&gt;, we worked to make it easier for citizens to interact with a massive federal bureaucracy:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;I helped grow and run the 29 million user &lt;a href=&#34;https://petitions.whitehouse.gov&#34;&gt;We the People petitions platform&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Launched the White House Tumblr, which helped reach young Americans (and resulted in &lt;a href=&#34;http://giphy.com/Obama&#34;&gt;some epic GIFs&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;And wrote literally hundreds of messages to the White House&amp;rsquo;s four million subscriber email list, keeping them up to date on what the President and his administration were up to.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Now I work with the very smart people at &lt;a href=&#34;http://precisionstrategies.com&#34;&gt;Precision Strategies&lt;/a&gt;, where I use some of the same tactics and strategies to help organizations get shit done.&lt;/p&gt;
-
-&lt;p&gt;I grew up on a &lt;a href=&#34;http://www.hopestill.com&#34;&gt;farm&lt;/a&gt; in Massachusetts, and did my undergrad at University of Rochester. I&amp;rsquo;m a recovering DJ.&lt;/p&gt;
-
-&lt;p&gt;Want to get in touch? Need your strategies digitized? Email me at &lt;a href=&#34;mailto:contact@ezramechaber.com&#34;&gt;contact@ezramechaber.com&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="http://ezramechaber.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Projects</title>
