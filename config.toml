@@ -6,8 +6,9 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-8595768-1"
 theme = "hugo-sustain"
-enableEmoji = true
 publishDir = "docs"
+#canonifyURLs = true
+enableEmoji = true
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
