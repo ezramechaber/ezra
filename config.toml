@@ -7,6 +7,7 @@ disqusShortname = ""
 googleAnalytics = "UA-8595768-1"
 theme = "hugo-sustain"
 enableEmoji = true
+publishDir = "docs"
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
