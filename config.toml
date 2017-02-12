@@ -16,7 +16,7 @@ enableEmoji = true
 [params]
   avatar = "profile.jpg"
   author = "Ezra Mechaber"
-  description = "Digital strategist for progressive causes."
+  description = "Digital strategist for progressive causes. I live in Brooklyn and I do things on the internet."
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
