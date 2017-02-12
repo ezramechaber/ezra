@@ -7,7 +7,7 @@ tags = []
 
 +++
 
-<img src="/img/ezra_maine.jpg" width="250px" height="250px" class="img-right" />
+<img src="{{ .Site.BaseURL }}img/ezra_maine.jpg" width="250px" height="250px" class="img-right" />
 
 I do digital strategy. I help campaigns, non-profits, and companies do stuff—recruit volunteers, raise money, look cool—online. I'm based in Brooklyn (ugh, right?).
 
