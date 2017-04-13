@@ -9,6 +9,7 @@ theme = "hugo-sustain"
 publishDir = "docs"
 #canonifyURLs = true
 enableEmoji = true
+enableRobotsTXT = true
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
