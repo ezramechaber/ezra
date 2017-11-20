@@ -32,7 +32,7 @@ And created this GIF series, which is _still_ getting shared on Tumblr:
 
 _[1,026,970 notes on Tumblr](http://obamawhitehouse.tumblr.com/post/88317388468/the-president-is-answering-your-questions)_
 <p>&nbsp;</p>
-And because the White House hosts world-class concerts and we had the distribution rights, I started our SoundCloud with some of those recordings:
+And because the White House hosts world-class concerts (and we had the distribution rights to the recordings), I started our SoundCloud and shared some of the best:
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/29795738&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
