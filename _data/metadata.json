@@ -1,0 +1,18 @@
+{
+  "title": "Ezra Mechaber",
+  "url": "https://www.ezramechaber.com/",
+  "description": "Digital strategist for good. I live in Brooklyn and I do things on the internet.",
+  "feed": {
+    "subtitle": "Digital strategist for good. I live in Brooklyn and I do things on the internet.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "url": "https://www.ezramechaber.com/feed/feed.xml",
+    "id": "https://www.ezramechaber.com/"
+  },
+  "author": {
+    "name": "Ezra",
+    "email": "contact@ezramechaber.com"
+  },
+  "share-image": "https://cdn.glitch.com/a7fc6184-2a73-4230-89ec-d4650844ea7e%2Fsocial-share.jpg?1552859125516",
+  "ga-tag":"UA-8595768-1"
+}

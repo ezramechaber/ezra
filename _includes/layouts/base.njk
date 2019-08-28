@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8" />
+  <title>{{ renderData.title or title or metadata.title }}</title>
+  <meta name="description" content="{{ renderData.description or description or metadata.description }}">
+  <meta name="author" content="" />
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Discovery Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ renderData.url or url or metadata.url }}" />
+  <meta property="og:title" content="{{ renderData.title or title or metadata.title }}" />
+  <meta property="og:description" content="{{ renderData.description or description or metadata.description }}" />
+  <meta property="og:image" content="{{ renderData.share-image or share-image or metadata.share-image }}" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="{{ renderData.url or url or metadata.url }}" />
+  <meta property="twitter:title" content="{{ renderData.title or title or metadata.title }}" />
+  <meta property="twitter:description" content="{{ renderData.description or description or metadata.description }}" />
+  <meta property="twitter:image" content="{{ renderData.share-image or share-image or metadata.share-image }}" />
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Noto+Sans|Noto+Sans+HK:300,400,600,900" rel="stylesheet" type="text/css" />
+  
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="{{ renderData.url or url or metadata.url }}/normalize.css" type="text/css" />
+    <link rel="stylesheet" href="{{ renderData.url or url or metadata.url }}/skeleton.css" type="text/css" />
+    <link rel="stylesheet" href="{{ renderData.url or url or metadata.url }}/style.css" type="text/css"/>
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="{{ renderData.share-image or share-image or metadata.share-image }}" />
+
+  <script type="text/javascript">
+    if (location.protocol != "https:") {
+      location.href =
+        "https:" +
+        window.location.href.substring(window.location.protocol.length);
+    }
+  </script>
+</head>
+  
+  <body>
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <header>
+  <div class="u-full-width logo"><a href="{{ '/' | url }}">{{ metadata.title }}</a></div>
+  </header>
+  <div class="section">
+    <div class="container">
+
+    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+
+      {{ content | safe }}
+    </main>
+
+    <!-- Current page: {{ page.url | url }} -->
+    </div>
+    </div>
+  
+  <!-- include the Glitch button to show what the webpage is about and
+       to make it easier for folks to view source and remix -->
+  <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
+  <script src="https://button.glitch.me/button.js"></script>
+
+  <!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <!-- JavaScript includes. Notice that socket.io.js is served by node.js -->
+  <!-- <script src="/socket.io/socket.io.js"></script> -->
+  <!--<script src="http://code.jquery.com/jquery-1.8.0.min.js"></script> -->
+  <script src="assets/js/script.js"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{metadata.ga-tag}}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+
+    gtag("config", "{{metadata.ga-tag}}");
+  </script>
+</body>
