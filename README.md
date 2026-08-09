@@ -20,3 +20,8 @@ Then open <http://localhost:8000>.
 - `favicon.svg` — browser icon
 
 The site can be hosted by any static file host. There is no build step.
+
+## Hosting
+
+GitHub Pages serves the site from the repository root. The `CNAME` file binds
+the Pages site to `ezramechaber.com`.
