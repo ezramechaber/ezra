@@ -16,7 +16,7 @@ Then open <http://localhost:8000>.
 
 - `index.html` — content and metadata
 - `style.css` — the complete visual system
-- `assets/ezra.png` — local profile image
+- `assets/ezra-halftone.png` — square halftone portrait
 - `favicon.svg` — browser icon
 
 The site can be hosted by any static file host. There is no build step.
